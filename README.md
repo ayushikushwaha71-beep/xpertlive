@@ -1,6 +1,6 @@
 # XpertLive
-
-A Real-Time Expert Session Booking System built using React, Node.js, Express, MongoDB, and Socket.io.
+XpertLive is a Real-Time Expert Session Booking Platform that allows users to discover experts, view available time slots, and book sessions seamlessly. The platform is designed to provide a smooth booking experience with real-time slot synchronization and double-booking prevention.
+Built using React, Node.js, Express, MongoDB, and Socket.io.
 
 ---
 
